@@ -9,7 +9,7 @@ menu:
   Tags: tags
   About: about
   #RSS: /atom.xml
-  Sitemap: /sitemap.xml
+  #Sitemap: /sitemap.xml
 
 # Content
 excerpt_link: Read More
