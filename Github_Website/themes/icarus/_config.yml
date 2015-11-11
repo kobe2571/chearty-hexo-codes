@@ -27,6 +27,7 @@ widgets:
 - tag
 - tagcloud
 - archive
+- links
 thumbnail: true
 
 # Contacts
@@ -38,6 +39,7 @@ contacts:
 
 # Links
 links:
+  大连海事大学海之魂论坛: http://www.dlmubbs.com
   Hexo: http://hexo.io
   
 # Rss & Sitemap
